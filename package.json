@@ -1,8 +1,12 @@
 {
   "name": "best-encoding",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Choose the best compression encoding",
-  "keywords": [],
+  "keywords": [
+    "request",
+    "encoding",
+    "compression"
+  ],
   "author": "Stephen Mathieson <me@stephenmathieson.com>",
   "repository": {
     "type": "git",
