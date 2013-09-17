@@ -1,6 +1,6 @@
 {
   "name": "best-encoding",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Choose the best compression encoding",
   "keywords": [
     "request",
@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git://github.com/stephenmathieson/node-best-encoding.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "accept-encoding": "~0.1.0"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
