@@ -1,5 +1,8 @@
 
-0.0.1 / 2010-01-03
-==================
+# 0.1.1
 
-  * Initial release
+  - Fixed deps
+
+# 0.1.0
+
+  - Initial release
