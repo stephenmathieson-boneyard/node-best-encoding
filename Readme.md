@@ -3,6 +3,8 @@
 
   Choose the best compression encoding
 
+[![Build Status](https://travis-ci.org/stephenmathieson/node-best-encoding.png)](https://travis-ci.org/stephenmathieson/node-best-encoding)
+
 ## API
 
 ### `best-encoding(req)`
